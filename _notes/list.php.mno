@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_parentrecordset" value="name:Parent ID;datatype:string,name:Father Name;datatype:string,name:Mother Name;datatype:string,name:Father IC Number;datatype:int,name:Mother IC Number;datatype:int,name:Father Occupation;datatype:string,name:Mother Occupation;datatype:string,name:Father Salary;datatype:real,name:Mother Salary;datatype:real,name:Father Birth Date;datatype:date,name:Mother Birth Date;datatype:date,name:Father Birth Place;datatype:string,name:Mother Birth Place;datatype:string,name:Father Phone Number;datatype:string,name:Mother Phone Number;datatype:string,name:Father Descendant;datatype:string,name:Mother Descendant;datatype:string,name:Father Citizenship;datatype:string,name:Mother Citizenship;datatype:string" />
+</info>
